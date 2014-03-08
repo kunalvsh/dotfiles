@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# Kunal’s dotfiles (taken from [Mathias](https://github.com/mathiasbynens/dotfiles))
 
 ## Installation
 
